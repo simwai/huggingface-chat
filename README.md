@@ -30,6 +30,8 @@ Make sure you have Python 3.6 or later installed. You can then install the depen
 To run the app, navigate to the directory containing `index.py` and run:
 
 `streamlit run index.py`
+or
+`python start.py`
 
 The Streamlit web interface should open in your default web browser, where you can interact with the model.
 
