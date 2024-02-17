@@ -33,26 +33,6 @@ To run the app, navigate to the directory containing `index.py` and run:
 
 The Streamlit web interface should open in your default web browser, where you can interact with the model.
 
-## API
-
-The app is structured around a `MyPipeline` class that handles the loading and interaction with the Hugging Face models.
-
-### `MyPipeline.load_model_and_tokenizer(model_name: str)`
-
-Load the specified model and tokenizer from Hugging Face's model hub.
-
-#### Parameters
-
-- `model_name` - Type: `str`. The name of the model to load.
-
-### `MyPipeline.analyze_text(text: str)`
-
-Generate text using the loaded model based on the provided prompt.
-
-#### Parameters
-
-- `text` - Type: `str`. The prompt text to feed into the model.
-
 ## Contributing
 
 Contributions are welcome! If you have a suggestion or an issue, please open an issue on the repository to discuss it.
