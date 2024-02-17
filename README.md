@@ -1,4 +1,4 @@
-# Hugging Face Model Demo
+# huggingface-chat
 
 > A Streamlit web app for interacting with Hugging Face's text generation models.
 
