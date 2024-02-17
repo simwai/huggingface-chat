@@ -1,0 +1,11 @@
+{
+  "[python]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "charliermarsh.ruff"
+  },
+  "python.languageServer": "Pylance",
+  "colorize.languages": [
+    "toml",
+    "python"
+  ]
+}
