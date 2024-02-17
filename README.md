@@ -1,12 +1,12 @@
-# huggingface-chat
-
-> A Streamlit web app for interacting with Hugging Face's text generation models.
+<center>
+<img style="max-width: 90%; height: 100%;" src="gh-banner.png"><br>
+<h3>A Streamlit web app for interacting with Hugging Face's text generation models.</h3>
+</center>
 
 This project is a simple web application that allows users to load pre-trained models from Hugging Face's model hub and generate text based on a user-provided prompt. It's built using Streamlit and the `transformers` library.
 
 [![VS Code](https://img.shields.io/badge/IDE-VS%20Code-6A0DAD.svg)](https://code.visualstudio.com/)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
-
 
 ## Features
 
