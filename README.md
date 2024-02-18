@@ -1,5 +1,5 @@
 <center>
-<img style="max-width: 90%; height: 100%;" src="gh-banner.png">
+<img style="max-width: 90%; height: auto;" src="gh-banner.png">
 <h3>A Streamlit web app for interacting with Hugging Face's text generation models.</h3>
 </center>
 
